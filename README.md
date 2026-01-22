@@ -14,6 +14,7 @@ I am an AI & ML Engineer with experience in developing AI-powered voice assistan
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RahulNathan19&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+https://github.com/users/RahulNathan19/achievements/quickdraw
 
 
 ### ✍️ Random Dev Quote
